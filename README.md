@@ -7,8 +7,8 @@ Currently based in Japan.
 - 10+ years of experience in IT & Infrastructure Engineering:
   - Samsung SDS – 4 years working on LTE/VoLTE Core systems (MME, S/P-GW, IMS)
   - Samsung SDS – 6+ years in infrastructure engineering and operations for large-scale Contact Center platforms
-  - EPAM Systems Japan – 2 years supporting Google Cloud Infrastructure (GCP Premium Support)
-  - GlobalLogic Japan (Hitachi Group) – Continued in the same GCP Infrastructure Support role after the Google project moved from EPAM to GlobalLogic
+  - EPAM Systems Japan – 2 years supporting Google Cloud Infrastructure (GCP Premium)
+  - GlobalLogic Japan (Hitachi Group) – Continuing the same GCP Infrastructure Support role after the Google project transitioned from EPAM to GlobalLogic
 
 - Deep expertise in **GCP**: GKE (Autopilot & Standard), Compute Engine, MIG, networking, IAM, VPC-SC, OS Config, and large-scale distributed systems.
 - Strong proficiency with **Infrastructure as Code (Terraform)** for GCP networking, GKE, IAM, and foundational infrastructure design.
