@@ -1,6 +1,6 @@
 ## Hyunmyung (Matthew) Lee 👋
 
-**Senior Cloud Infrastructure / SRE**
+**Senior Cloud Infrastructure**
 Currently based in Japan.
 
 ### 🌐 About Me
