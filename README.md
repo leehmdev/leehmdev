@@ -1,15 +1,15 @@
 ## Hyunmyung (Matthew) Lee 👋
 
-** Senior Cloud & Infrastructure Engineer **
+**Senior Cloud & Infrastructure Engineer**
 Currently based in Japan.
 
 ### 🌐 About Me
 - 12+ years of experience in large-scale infrastructure, cloud platforms, and automation.
   Specialized in Kubernetes, GCP, and modern infrastructure engineering.
-  - Samsung SDS – 10+ Large-scale enterprise infrastructure & Telecommunication core system
-  - EPAM Systems Japan → GlobalLogic Japan – GCP Premium Support
-    - GKE (Autopilot & Standard), Compute Engine, MIG, VPC, IAM, Networking
-    - Deep troubleshooting across autoscaling, performance, network, IAM, node lifecycle, and distributed systems
+- Samsung SDS – 10+ Large-scale enterprise infrastructure & Telecommunication core system
+- EPAM Systems Japan → GlobalLogic Japan – GCP Premium Support
+  - GKE (Autopilot & Standard), Compute Engine, MIG, VPC, IAM, Networking
+  - Deep troubleshooting across autoscaling, performance, network, IAM, node lifecycle, and distributed systems
 - Infrastructure as Code: Terraform (GKE, networking, IAM, org design)
 - Automation & CI/CD: GitHub Actions, GitLab CI, Bash/Python
 - Skilled in designing lab environments to reproduce complex production issues & conduct root-cause investigations
