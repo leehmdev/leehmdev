@@ -1,22 +1,36 @@
 ## Hyunmyung (Matthew) Lee 👋
 
-**Senior Cloud Infrastructure**
+** Senior Cloud & Infrastructure Engineer **
 Currently based in Japan.
 
 ### 🌐 About Me
-- 10+ years of experience in IT & Infrastructure Engineering:
-  - Samsung SDS – 4 years working on LTE/VoLTE Core systems (MME, S/P-GW, IMS)
-  - Samsung SDS – 6+ years in infrastructure engineering and operations for large-scale Contact Center platforms
-  - EPAM Systems Japan – 2 years supporting Google Cloud Infrastructure (GCP Premium)
-  - GlobalLogic Japan (Hitachi Group) – Continuing the same GCP Infrastructure Support role after the Google project transitioned from EPAM to GlobalLogic
-
-- Deep expertise in **GCP**: GKE (Autopilot & Standard), Compute Engine, MIG, networking, IAM, VPC-SC, OS Config, and large-scale distributed systems.
-- Strong proficiency with **Infrastructure as Code (Terraform)** for GCP networking, GKE, IAM, and foundational infrastructure design.
-- Extensive experience in diagnosing and resolving production incidents, performance bottlenecks, autoscaling issues, and complex networking problems for enterprise customers.
-- Proficient in building **CI/CD pipelines** (GitHub Actions, GitLab CI) and developing automation tooling using Bash/Python.
-- Skilled in creating controlled lab environments to reproduce complex failure scenarios, validate hypotheses, and conduct deep root-cause analysis across GKE and GCP infrastructure.
+- 12+ years of experience in large-scale infrastructure, cloud platforms, and automation.
+  Specialized in Kubernetes, GCP, and modern infrastructure engineering.
+  - Samsung SDS – 10+ Large-scale enterprise infrastructure & Telecommunication core system
+  - EPAM Systems Japan → GlobalLogic Japan – GCP Premium Support
+    - GKE (Autopilot & Standard), Compute Engine, MIG, VPC, IAM, Networking
+    - Deep troubleshooting across autoscaling, performance, network, IAM, node lifecycle, and distributed systems
+- Infrastructure as Code: Terraform (GKE, networking, IAM, org design)
+- Automation & CI/CD: GitHub Actions, GitLab CI, Bash/Python
+- Skilled in designing lab environments to reproduce complex production issues & conduct root-cause investigations
 
 ---
+
+### 🔧 Primary Tech Stack
+Kubernetes · GCP · AWS · Terraform · GitOps · CI/CD · Linux
+
+---
+
+### 📦 Featured Projects
+- GKE Terraform & Ansible Lab
+  - Automated end-to-end GKE infrastructure provisioning using Terraform + Ansible.
+  - Repo: https://github.com/leehmdev/gke-terraform-ansible-lab
+- GKE GitOps & Observability Lab
+  - Argo CD-based GitOps deployment with integrated Prometheus & Grafana stack.
+  - Repo: https://github.com/leehmdev/gke-gitops-observability-lab
+- GKE Istio Canary Deployment Lab
+  - Service mesh traffic splitting, canary rollout, and progressive delivery using Istio.
+  - Repo: https://github.com/leehmdev/gke-istio-canary-lab
 
 ### 🔧 Tech Focus
 - **Cloud**: Google Cloud Platform (GKE, Compute, Storage, VPC, IAM), Amazon Web Service
@@ -28,19 +42,11 @@ Currently based in Japan.
 
 ---
 
-### 🚀 What I'm Working On
-
-- Developing **GCP infrastructure labs** using Terraform to refine cloud architecture and IaC best practices.
-- Creating technical documentation based on **real-world GKE troubleshooting** (Autopilot scheduling, taints/tolerations, MIG behavior, Spot VM lifecycle, performance diagnostics).
-
----
-
 ### 📬 Contact
 
+- LinkedIn: **linkedin.com/in/hyunmyunglee/**
 - Email: **leehm.dev@gmail.com**
 - Website: **doabada.com**
-- LinkedIn: **linkedin.com/in/hyunmyunglee/**
-
 
 
 <!--
