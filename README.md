@@ -1,4 +1,4 @@
-## Hyunmyung (Matthew) Lee 👋
+## Hyunmyung (Matthew) Lee 
 
 **Senior Cloud & Infrastructure Engineer**
 Currently based in Japan.
